@@ -12,3 +12,4 @@ class Class_Features(Base):
     Name = Column(String)
     Level = Column(Integer)
     Description = Column(Integer)
+    Revised_Feature_ID = Column(Integer)

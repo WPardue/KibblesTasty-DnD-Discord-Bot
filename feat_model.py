@@ -14,3 +14,4 @@ class Feats(Base):
     Race_Req = Column(String)
     Misc_Req = Column(String)
     Source = Column(String)
+    Revised_Feat_ID = Column(Integer)
